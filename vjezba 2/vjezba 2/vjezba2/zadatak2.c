@@ -414,7 +414,8 @@ int InsertPerson(char name[], char surname[], int* year) {
 	return 1; // sve ok
 }
 
-
+// tribalo bi free-at memoriju prije return-a, pogledaj di mozes jos oslobidit pokazivac tempa da ne visi u memoriji kad brises
+//ako pises adresu &head u argument, onda u funciji treba bit q = head->Next, a ne head = head->Next jer se gubi head onda, treba nova varijabla za to
 
 
 
