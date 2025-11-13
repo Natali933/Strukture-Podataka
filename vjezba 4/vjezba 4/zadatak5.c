@@ -22,7 +22,9 @@ int main() {
 	FromFile("zad.txt", &Head);
 	Check(&Head);
 
+	//oslobodit memoriju 
 
+	return 0;
 }
 
 
@@ -72,7 +74,7 @@ double operation(double a, double b, char op) {
 		return a * b;
 	else if (op == '/') {
 		if (b == 0) {
-			printf("\dijelenje sa nulom");
+			printf("\ndijelenje sa nulom");
 			exit(EXIT_FAILURE);
 		}
 		return a / b;
