@@ -1,0 +1,5 @@
+Pariz, 2200000
+Marseille, 870000
+Lyon, 515000
+Toulouse, 475000
+Nice, 340000

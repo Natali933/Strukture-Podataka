@@ -1,0 +1,8 @@
+Hrvatska hrvatska.txt
+Francuska francuska.txt
+Njemacka njemacka.txt
+Italija italija.txt
+Spanjolska spanjolska.txt
+Austrija austrija.txt
+Srbija srbija.txt
+Slovenija slovenija.txt

@@ -1,0 +1,5 @@
+Beograd, 1200000
+Novi-Sad, 290000
+Nis, 183000
+Kragujevac, 150000
+Subotica, 105000

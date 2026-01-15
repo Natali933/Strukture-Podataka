@@ -1,0 +1,5 @@
+Madrid, 3220000
+Barcelona, 1620000
+Valencia, 790000
+Sevilla, 690000
+Zaragoza, 665000

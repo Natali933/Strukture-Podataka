@@ -1,0 +1,5 @@
+Ljubljana, 280000
+Maribor, 95000
+Celje, 38000
+Kranj, 37000
+Velenje, 25000

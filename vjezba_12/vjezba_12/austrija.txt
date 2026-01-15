@@ -1,0 +1,5 @@
+Bec, 1900000
+Graz, 280000
+Linz, 205000
+Salzburg, 154000
+Innsbruck, 132000
